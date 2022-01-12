@@ -25,7 +25,8 @@ a {
 
 #featured-property p {
   width: 800px;
-  color: blue;
+  margin: 0 auto;
+}
 
 div {
   float: left;
